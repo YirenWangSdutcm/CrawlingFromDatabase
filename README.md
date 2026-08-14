@@ -1,4 +1,4 @@
-(b站)crawling-from-academic-database
+crawling from academic database
 
 simulate browser environment for automated literature retrieval
 
